@@ -17,7 +17,7 @@ const PopularMenu = () => {
 
     return (
         <div>
-            <section className="mb-16">
+            <section className="mb-16 px-6">
                 <SectionTitle
                 heading="From Our Menu"
                 subHeading="Popular Menu"

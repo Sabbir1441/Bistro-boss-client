@@ -43,7 +43,7 @@ const Testimonials = () => {
                                 readOnly
                             />
                             <LiaSpeakap className="text-7xl mt-8" />
-                            <p className="py-8">{review.details}</p>
+                            <p className="py-8 text-xl text-center">{review.details}</p>
                             <h3 className="text-2xl text-orange-500">{review.name}</h3>
                         </div>
                     </SwiperSlide>)
